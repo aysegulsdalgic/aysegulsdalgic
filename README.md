@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a civil engineer (M.Sc.) and PhD student.
-I’m currently working on Artificial Intelligence in Structural Engineering and Structural Optimization.
-I’m currently learning about Computer Vision and NLP applications.
-
+I'm a Machine Learning Engineer and a PhD candidate conducting research on artificial intelligence applications in structural engineering.
+I’m currently working on AI-driven methods for structural optimization and decision-making in engineering.
+Beyond academia, I develop AI-powered solutions for problems across various industries, leveraging techniques from computer vision, natural language processing, and predictive modeling.
+I'm also actively expanding my knowledge in Computer Vision and NLP.
