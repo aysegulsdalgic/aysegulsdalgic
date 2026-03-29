@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm an AI Engineer and a PhD candidate conducting research on AI applications in Structural Engineering.
 As an AI engineer with 2 years of experience, I have developed production-level AI solutions including:  
  • AI-powered receipt processing systems  
