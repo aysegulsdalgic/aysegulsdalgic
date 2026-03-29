@@ -22,3 +22,4 @@ Data Science  : Pandas, NumPy, Scikit-learn, Matplotlib
 📌 Currently open to AI Engineer / ML Engineer roles.
 
 
+# Generative AI, #LLM, #RAG, Agentic Workflows, Computer Vision, Medical NLP, Machine Learning Pipelines, Medical Imaging, DICOM, Genetic Algorithms, Optimization, Metaheuristics
