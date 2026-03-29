@@ -12,7 +12,7 @@ Now I'm going deeper into Generative AI — building RAG pipelines, agentic work
 ```
 Languages     : Python, SQL
 LLMs & GenAI  : LiteLLM, LangChain, HuggingFace Transformers
-RAG           : ChromaDB, SQLite, text-embedding-3-large
+RAG           : ChromaDB, SQLite
 CV / NLP      : Vision Transformer, SpaCy
 MLOps         : Docker, REST API, PostgreSQL
 Medical       : DICOM, NRRD/STL, 3D Slicer
