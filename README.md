@@ -1,5 +1,5 @@
 I'm an AI Engineer and a PhDc conducting research on AI applications in Structural Engineering.
-As an AI engineer with 2 years of experience, I have actively contributed to and taken key roles in developing production-level AI solutions, including:
+As an AI engineer with 2 years of experience, I have actively contributed to and taken key roles in developing production-level AI solutions, including:  
  • AI-powered receipt processing systems  
  • Medical NLP systems (TÜBİTAK 1507 project) for structured clinical data extraction  
  • A NLP system for extracting critical information from disaster-related social media data  
