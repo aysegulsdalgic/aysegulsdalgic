@@ -16,4 +16,4 @@ Deployment            : Docker, Flask
 
 
 ---
-tags: #GenerativeAI, #LLM, #RAG, #AgenticWorkflows, #ComputerVision, #MedicalNLP, #MachineLearningPipelines, #MedicalImaging, #DICOM, #GeneticAlgorithms, #Optimization, #Metaheuristics
+#GenerativeAI, #LLM, #RAG, #AgenticWorkflows, #ComputerVision, #MedicalNLP, #MachineLearningPipelines, #MedicalImaging, #DICOM, #GeneticAlgorithms, #Optimization, #Metaheuristics
