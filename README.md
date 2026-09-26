@@ -6,13 +6,10 @@ Now I'm going deeper into Generative AI — building RAG pipelines, agentic work
 **Tech Stack**
 
 ```
-Languages     : Python, SQL
-LLMs & GenAI  : LiteLLM, LangChain, HuggingFace Transformers
-RAG           : ChromaDB, SQLite
-CV / NLP      : Vision Transformer, SpaCy
-MLOps         : Docker, REST API, PostgreSQL
-Medical       : DICOM, NRRD/STL, 3D Slicer
-Data Science  : Pandas, NumPy, Scikit-learn, Matplotlib
+Programming & Data    : Python, SQL (PostgreSQL, SQLite), Pandas, NumPy
+ML & NLP              : PyTorch, Hugging Face Transformers, Scikit-learn, spaCy
+LLM, RAG & Agentic AI : LangChain, LiteLLM, Ollama, ChromaDB, FAISS, Agent Orchestration, Multi-Agent, Tool Calling
+Deployment            : Docker, Flask
 ```
   
 📌 Currently open to AI Engineer / ML Engineer roles.
